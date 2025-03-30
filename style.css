@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rochester&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #ECDAC2;
+}
+  /** TOP **/ 
+.navbar{
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.navbar-logo{
+    height: 50px;
+    width: 50px;
+}
+.logo{
+    background-image: url(LOGO.png);
+    background-size: cover;
+    height:45px;
+    width: 45px;
+}
+.section{
+    margin-left: 1140px;
+    font-family: "Bitter", serif;
+}
+/** BODY **/
+.tune{
+   height: 100px;
+}
+.tune1{
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 35px;
+    font-size: 60px;
+    color: #404242;
+    font-family: "Bangers", system-ui;
+}
+.boy{
+    display: flex;
+}
+
+.cont{
+    height: 400px;
+    width: 350px;
+    margin-left: 40px;
+}
+ .cont{
+    font-family: "Rochester", cursive;
+    font-size: larger;
+ }
+.ak{
+    margin-top: 40px;
+    margin-left: 100px;
+    height: 50px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #76D95380;
+    font-size: 25px;
+    font-family: "Luckiest Guy", cursive;
+}
+.image{
+    background-image: url(P1.jpg);
+    background-size: cover;
+    height:610px;
+    width: 420px;
+    margin-left: 600px;
+    margin-bottom: 40px;
+}
+.moi{
+    color: #404242;
+    font-family: "Bangers", system-ui;
+   
+}
+.p1{
+    margin-top: 30px;
+    font-size: 60px;
+}
+.p2{
+    margin-left: 40px;
+    font-size:60px ;
+}
+.p3{
+    margin-left: 80px;
+    font-size:60px ;
+}
+.moic{
+    font-family: "Rochester", cursive;
+    margin-top: 25px;
+}
+/**MAIN**/
+.box{
+    height: 950px;
+    width: 800px;
+    margin-left:360px ;
+}
+.box1{
+    background-image:url(P2.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 0px;
+}
+.box2{
+    background-image:url(P4.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 400px;
+    margin-left: 0px;
+    font-family: "Luckiest Guy", cursive;
+}
+.box3{
+    background-image:url(P6.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 400px;
+    margin-left: 0px;
+}
+.box4{
+    background-image:url(P3.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    margin-left: 0px;
+    
+}
+.x{
+    display: flex;
+}
+.box5{
+    background-image:url(P5.jpg);
+    background-size: cover;
+    height: 550px;
+    width: 400px;
+    margin-left: 0px;
+    font-family: "Luckiest Guy", cursive;
+}
+.z{
+    display: flex;
+}
+.sign{
+    background-image: url(l1.png);
+    background-size: cover;
+    height: 220px;
+    width: 450px;
+    margin-left: 550px;
+    margin-top: 50px;
+}
